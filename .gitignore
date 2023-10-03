@@ -1,2 +1,3 @@
 *__pycache__*
-profile_logs
+profile_logs/
+.vscode/
